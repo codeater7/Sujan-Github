@@ -3,7 +3,7 @@
 
 ## Hi there I am Sujan Pokharel 👋 
 
-- 🔭 I’m currently developing a web applications using MERN stack, TypeScript, Python, Django.
+- 🔭 I have knowledge and experience developing web applications using MERN stack, TypeScript, Python, Django.
 - 🔭 My thesis was about backend with Node and Containerization using Docker.
 
 - 🌱 I am planning to learn DevOps tools and have interest on K8s.
