@@ -38,7 +38,7 @@
 
 ## &#x1f4c8; GitHub Stats
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Codeater&count_private=true&show_icons=true&theme=tokyonight">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=codeater7&count_private=true&show_icons=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=codeater7&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=codeater7&hide=php&theme=tokyonight">
